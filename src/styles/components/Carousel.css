@@ -1,0 +1,36 @@
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .carousel-track {
+    display: flex;
+    white-space: nowrap;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .carousel-slide {
+    width:350px; /* Largura de cada slide */
+    height:250px;
+    background-color: #616261; /* Cor de fundo */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    flex-shrink: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .carousel-slide:hover{
+    width:360px; /* Largura de cada slide */
+    height:260px;
+    transition: 1s;
+  }

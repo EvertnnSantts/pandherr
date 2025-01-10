@@ -83,4 +83,7 @@ h1{
     border-radius: 50px;
     cursor: pointer;
     margin: 0;
+    background-position: center; /* Centraliza horizontal e verticalmente */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    background-size: cover; /* Ajusta a imagem para cobrir todo o container */
 }
