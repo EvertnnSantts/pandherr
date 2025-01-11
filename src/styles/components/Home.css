@@ -8,6 +8,8 @@
     justify-content: center;
     align-items: center;
     gap: 50px;
+    position: relative;
+    /*margin-top: 100px;*/
 }
 
 .texts{

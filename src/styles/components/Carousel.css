@@ -27,10 +27,20 @@
     border-radius: 10px;
     flex-shrink: 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
   }
   
   .carousel-slide:hover{
     width:360px; /* Largura de cada slide */
     height:260px;
     transition: 1s;
+    cursor: pointer;
+  }
+
+  #id{
+    color: aquamarine;
   }
