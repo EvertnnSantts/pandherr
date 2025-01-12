@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Home from '../src/components/Home';
 import Ideal from '../src/components/Ideal';
 import Carousel from '../src/components/Carousel';
-import Build from '../src/components/Build';
+import Footer from '../src/components/Footer';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <Home/>
       <Ideal/>
       <Carousel/>
-      <Build/>
+      <Footer/>
      </router>
     </div>
   );

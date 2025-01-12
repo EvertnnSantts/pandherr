@@ -2,7 +2,7 @@ import '../styles/components/Ideal.css';
 function Ideal(){
     return (
         <div className="ideal">
-            <h1 className="Ideal-Title">
+            <h1 id="Ideal-Title">
             Ready to Transform Your Ideas?
             </h1>
             <div className="Ideal-Texts">
