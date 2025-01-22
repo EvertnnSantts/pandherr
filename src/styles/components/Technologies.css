@@ -1,0 +1,46 @@
+.Technologies{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color:  rgb(37, 37, 35);
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.Fills{
+
+}
+
+.Fill-Button1{
+    width: 100px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button1{
+    width: 100px;
+    height: 300px;
+    background: none;
+    border: 3px solid rgb(255, 234, 0);
+    border-radius: 10px;
+}
+
+button{
+    color:  rgb(255, 234, 0);
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
