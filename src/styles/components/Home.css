@@ -9,7 +9,7 @@
     align-items: center;
     gap: 50px;
     position: relative;
-    /*margin-top: 100px;*/
+    margin-top: 150px;
 }
 
 .texts{
@@ -67,6 +67,7 @@
     font-size: 20px;
     cursor: pointer;
     margin: 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .Photos-team{
@@ -115,5 +116,4 @@
         width: 300px;
         font-size: 10px;
     }
-    
   }

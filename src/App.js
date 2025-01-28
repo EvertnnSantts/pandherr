@@ -6,6 +6,7 @@ import Home from '../src/components/Home';
 import Ideal from '../src/components/Ideal';
 import Carousel from '../src/components/Carousel';
 import Technologies from './components/Technogies';
+import Chat from './components/Chat';
 import Footer from '../src/components/Footer';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Ideal/>
       <Carousel/>
       <Technologies/>
+      <Chat/>
       <Footer/>
      </router>
     </div>

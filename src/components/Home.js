@@ -2,7 +2,7 @@ import '../styles/components/Home.css';
 //img:
 import Filipe from '../assets/Filipe.jpeg';
 import Everton from '../assets/Everton.jpeg';
-import Uendel from '../assets/Uendel.jpeg'
+import Uendel from '../assets/Uendel.jpeg';
 
 function Home(){
     return(

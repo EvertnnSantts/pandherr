@@ -7,6 +7,9 @@ import site4 from '../assets/site4.png'
 import site5 from '../assets/site5.png'
 import site6 from '../assets/site6.png'
 import site7 from '../assets/site7.png'
+import site8 from '../assets/site8.png'
+import site9 from '../assets/site9.png'
+import site10 from '../assets/site10.png'
 
 const Carousel = () => {
   const slides = [
@@ -17,9 +20,9 @@ const Carousel = () => {
     { imageUrl: site5},
     { imageUrl: site6},
     { imageUrl: site7},
-    { id: 8,  imageUrl: '' },
-    { id: 9,  imageUrl: '' },
-    { id: 10, imageUrl: '' },
+    { imageUrl: site8},
+    { imageUrl: site9},
+    { imageUrl: site10},
   ]
 
   const carouselRef = useRef(null);

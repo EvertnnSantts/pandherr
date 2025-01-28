@@ -2,17 +2,19 @@
 
 .header-nav{
     width: 100%;
-    height: 130px;
+    height: 100px;
     gap: 10px;
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: center;
-   /* position: fixed;
+    position: fixed;
     top: 0;
     left: 50%;
+    box-sizing: border-box;
+    z-index: 1000;
     transform: translateX(-50%);
-    width: 1250px;*/
+    background: rgb(255, 255, 255);
 }
 
 .menu-toggle{
