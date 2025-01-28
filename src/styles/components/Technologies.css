@@ -2,7 +2,7 @@
 
 .Technologies{
     width: 100%;
-    height: 700px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -67,6 +67,18 @@ p{
 #imginnovation{
     width: 90px;
 }
+
+.animate-on-scroll {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.animate-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
 
 @media (max-width: 768px) {
     .Technologies{

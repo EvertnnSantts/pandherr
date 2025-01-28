@@ -1,6 +1,6 @@
-/*.Chat{
+.Chat{
    width: 100%;
-   height: 500px;
+   height: 600px;
    display: flex;
    align-items: center;
    justify-content: center;
@@ -8,7 +8,14 @@
 
 .Org{
   width: 1200px;
-   height: 100%;
+   height: 500px;
    border-radius: 20px;
-  background: rgba(94, 23, 235, 1);
-}*/
+  background: rgb(255, 255, 255);
+}
+
+
+@media (max-width: 768px) {
+  .Org{
+    height: 400px;
+  }
+}
