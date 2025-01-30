@@ -16,7 +16,7 @@ function Home(){
             <h1 id='home-title'>Your partner in the digital future!</h1>
              <h2 id='subtitlite'>Your Partner in the Digital Future: Enhancing Your Tech Experience with Style and Innovation!</h2>
             </div>
-            <button id='Button-link'>talk to our team</button>
+           <a href='https://cal.com/evertnnsantts/evortonsantts'><button id='Button-link'>talk to our team</button></a>
         </div>
     )
 }

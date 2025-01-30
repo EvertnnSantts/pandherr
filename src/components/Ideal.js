@@ -19,7 +19,7 @@ function Ideal(){
     }, []);
 
     return (
-        <div className="ideal">
+        <div className="ideal" id="Ideal">
             <h1 id="Ideal-Title" className="animate-on-scroll">
             Ready to Transform Your Ideas?
             </h1>

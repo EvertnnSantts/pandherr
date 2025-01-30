@@ -17,12 +17,12 @@ function Header() {
         </div>
         <button className="menu-toggle" onClick={toggleMenu} aria-label="Toggle Menu">☰</button>
         <div className={`nav-menu ${menuOpen ? "open" : ""}`}>
-          <a href="/Blog" className="menu-item">Blog</a>
-          <a href="/Our team" className="menu-item">Our team</a>
-          <a href="/Templates" className="menu-item">Templates</a>
+          <a href="#Ideal" className="menu-item">Ideal</a>
+          <a href="#templates" className="menu-item">Templates</a>
+          <a href="#our-team" className="menu-item">Our team</a>
         </div>
         <div className="nav-button">
-          <button id="Button-link">make your budget</button>
+          <a href="https://cal.com/evertnnsantts/evortonsantts"><button id="Button-link">Book a call</button></a>
         </div>
       </nav>
     </header>
@@ -30,4 +30,5 @@ function Header() {
 }
 
 export default Header;
+
 

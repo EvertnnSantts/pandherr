@@ -32,6 +32,11 @@ a{
     cursor: pointer;
 }
 
+a:hover{
+  color: rgba(94, 23, 235, 1);
+  transition: 0.8s;
+}
+
 #Button-link{
     width: 230px;
     height: 50px;
@@ -70,6 +75,9 @@ a{
     justify-content: right;
 }
 
+a{
+  
+}
 /* Estilo para telas menores */
 @media (max-width: 768px) {
     .nav-menu {

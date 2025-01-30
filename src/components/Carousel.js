@@ -54,7 +54,7 @@ const Carousel = () => {
   }, [slides.length]);
 
   return (
-    <div className="carousel">
+    <div className="carousel" id='templates'>
       <div className="carousel-track" ref={carouselRef}>
         {slides.concat(slides).map((slide) => (
           <div key={slide.id} className="carousel-slide">
