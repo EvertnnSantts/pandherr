@@ -1,12 +1,13 @@
 # pandherr
 Status: Concluido.
 
+## Descrição
+A Pandherr é uma aplicação front-end desenvolvida com tecnologias modernas para oferecer uma experiência interativa e intuitiva. Construída com foco em desempenho e usabilidade, a plataforma utiliza React.js para criar uma interface dinâmica, garantindo uma navegação fluida e responsiva.
+
 ## Tecnologias
 - JavaScript
 - React.js
 
-## Descrição
-A Pandherr é uma aplicação front-end desenvolvida com tecnologias modernas para oferecer uma experiência interativa e intuitiva. Construída com foco em desempenho e usabilidade, a plataforma utiliza React.js para criar uma interface dinâmica, garantindo uma navegação fluida e responsiva.
 
 ## 📜 Licença e Direitos Autorais
 
