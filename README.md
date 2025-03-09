@@ -11,7 +11,7 @@ A Pandherr é uma aplicação front-end desenvolvida com tecnologias modernas pa
 
 ## 📜 Licença e Direitos Autorais
 
-O sistema **OPN Finance** é de uso livre, mas **é ilegal vendê-lo sem a autorização dos criadores**.
+O sistema **pandherr** é de uso livre, mas **é ilegal vendê-lo sem a autorização dos criadores**.
 
 ## 📧 Contato e Suporte
 
